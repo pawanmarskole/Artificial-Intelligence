@@ -1,1 +1,2 @@
 # Artificial-Intelligence
+This course is take by Dr. Chuck Anderson at Colorado State University. Here, we learnt basic of AI and also the complex models and learnt to code them in python. Usually we Jupyter notebook as the medium so that one reading the file would get a better idea of what the code is and what logic is used. Even we can present the code very well if we code it in notebook rather than any other IDE.
